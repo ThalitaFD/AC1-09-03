@@ -1,0 +1,13 @@
+Este repositório contém a primeira etapa de uma análise de dados realizada utilizando o Power BI. Os dados utilizados foram gerados de forma fictícia através do site mockaroo.com, com um total de 1.000 registros de pessoas.
+Etapas Realizadas:
+
+Na primeira fase da análise, foram realizadas as seguintes ações:
+
+Contagem de Classes por Profissão
+A população foi classificada em três faixas etárias (adultos, jovens e idosos) com base em suas profissões, permitindo uma visão mais detalhada da distribuição da amostra.
+
+Contagem de Gênero
+Foi realizada uma análise da distribuição de gênero entre os indivíduos da base de dados, proporcionando uma visão demográfica relevante.
+
+Botões Interativos para Classificação por Escolaridade
+Foram implementados botões interativos no Power BI, permitindo classificar e filtrar os dados conforme o nível de escolaridade dos participantes.
